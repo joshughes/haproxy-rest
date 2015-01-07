@@ -24,6 +24,8 @@ ADD ./resources/500rate.http /tmp/500rate.http
 
 EXPOSE 80
 
+EXPOSE 443
+
 EXPOSE 10001
 
 EXPOSE 1988
